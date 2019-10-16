@@ -1,0 +1,12 @@
+C:\Temp\SQLDataAccessDemos\FormUI\bin\Debug\FormUI.exe.config
+C:\Temp\SQLDataAccessDemos\FormUI\bin\Debug\FormUI.exe
+C:\Temp\SQLDataAccessDemos\FormUI\bin\Debug\FormUI.pdb
+C:\Temp\SQLDataAccessDemos\FormUI\bin\Debug\Dapper.dll
+C:\Temp\SQLDataAccessDemos\FormUI\bin\Debug\Dapper.xml
+C:\Temp\SQLDataAccessDemos\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+C:\Temp\SQLDataAccessDemos\FormUI\obj\Debug\FormUI.Dashboard.resources
+C:\Temp\SQLDataAccessDemos\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Temp\SQLDataAccessDemos\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Temp\SQLDataAccessDemos\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Temp\SQLDataAccessDemos\FormUI\obj\Debug\FormUI.exe
+C:\Temp\SQLDataAccessDemos\FormUI\obj\Debug\FormUI.pdb
